@@ -1,0 +1,251 @@
+EmployeeID,Age,Gender,Department,JobRole,EducationLevel,MonthlyIncome,YearsAtCompany,PerformanceRating,Overtime,Attrition
+EMP001,58,Male,HR,Recruiter,Diploma,19468,22,1,No,No
+EMP002,27,Male,Operations,Operations Assistant,Master,58593,1,4,No,No
+EMP003,56,Male,Marketing,Marketing Specialist,Master,17501,8,2,Yes,Yes
+EMP004,37,Female,Marketing,Marketing Specialist,Diploma,38171,16,1,No,No
+EMP005,56,Male,Marketing,Digital Marketer,Master,36325,6,3,Yes,Yes
+EMP006,41,Male,Sales,Sales Administrator,Bachelor,25225,7,1,No,No
+EMP007,53,Male,IT,System Administrator,Diploma,22612,10,4,No,Yes
+EMP008,53,Female,Marketing,Marketing Specialist,Bachelor,32944,3,2,Yes,No
+EMP009,36,Female,Operations,Operations Manager,Diploma,32279,2,5,No,No
+EMP010,49,Male,Sales,Sales Executive,Master,50677,1,1,No,No
+EMP011,33,Male,Finance,Accountant,Diploma,15299,8,4,Yes,No
+EMP012,44,Male,Marketing,Marketing Specialist,Diploma,21132,3,4,Yes,Yes
+EMP013,57,Female,IT,Data Engineer,Master,40316,2,3,No,Yes
+EMP014,24,Female,Operations,Operations Manager,Master,35818,1,1,Yes,Yes
+EMP015,39,Male,Sales,Sales Administrator,Bachelor,58330,1,2,Yes,No
+EMP016,36,Male,Marketing,Marketing Specialist,Master,31954,7,3,Yes,Yes
+EMP017,52,Male,Marketing,Digital Marketer,Master,57444,2,5,Yes,Yes
+EMP018,42,Male,Marketing,Digital Marketer,Bachelor,51816,16,3,No,Yes
+EMP019,51,Male,IT,System Administrator,Diploma,34714,9,4,Yes,Yes
+EMP020,50,Female,Sales,Sales Executive,Bachelor,33593,3,3,No,No
+EMP021,57,Male,Finance,Financial Analyst,Master,45057,17,2,No,No
+EMP022,23,Female,Sales,Sales Executive,Diploma,20157,2,4,Yes,Yes
+EMP023,47,Male,HR,Recruiter,Diploma,42903,22,2,No,Yes
+EMP024,28,Female,Marketing,Digital Marketer,Diploma,18353,1,5,No,No
+EMP025,52,Male,Operations,Operations Assistant,Bachelor,55399,3,2,Yes,No
+EMP026,55,Female,IT,Data Analyst,Bachelor,33275,18,4,No,Yes
+EMP027,40,Female,Finance,Financial Analyst,Master,16261,19,2,No,Yes
+EMP028,35,Male,Sales,Sales Administrator,Diploma,32983,1,2,Yes,Yes
+EMP029,22,Male,Operations,Operations Assistant,Bachelor,15594,1,1,No,No
+EMP030,34,Female,HR,HR Manager,Bachelor,38595,8,3,Yes,Yes
+EMP031,51,Male,Operations,Operations Manager,Diploma,53303,9,2,Yes,No
+EMP032,58,Male,HR,Recruiter,Bachelor,28397,16,1,Yes,Yes
+EMP033,48,Female,Operations,Operations Assistant,Diploma,53439,19,1,Yes,No
+EMP034,46,Male,Operations,Operations Manager,Diploma,45073,25,2,No,Yes
+EMP035,37,Male,IT,Data Engineer,Diploma,20916,15,5,No,Yes
+EMP036,46,Female,IT,Data Engineer,Bachelor,49972,18,1,No,Yes
+EMP037,49,Female,Operations,Operations Manager,Master,33936,14,3,Yes,Yes
+EMP038,37,Female,HR,HR Manager,Diploma,24979,1,5,No,No
+EMP039,54,Female,Operations,Operations Assistant,Bachelor,36222,2,3,No,No
+EMP040,31,Male,HR,HR Manager,Diploma,25871,0,3,No,Yes
+EMP041,51,Female,Marketing,Digital Marketer,Diploma,49568,16,2,No,Yes
+EMP042,54,Female,Marketing,Marketing Specialist,Bachelor,27676,19,1,No,Yes
+EMP043,38,Male,IT,System Administrator,Master,17535,5,5,No,No
+EMP044,27,Male,IT,System Administrator,Master,24979,3,1,No,No
+EMP045,36,Male,Sales,Sales Executive,Diploma,48436,13,5,Yes,No
+EMP046,43,Male,IT,System Administrator,Bachelor,41823,7,1,No,No
+EMP047,27,Male,Operations,Operations Manager,Master,34968,4,3,No,Yes
+EMP048,56,Female,Finance,Accountant,Diploma,56666,13,5,Yes,Yes
+EMP049,40,Female,Sales,Sales Executive,Bachelor,24184,7,1,No,No
+EMP050,28,Male,IT,Business Analyst,Master,56057,5,3,Yes,No
+EMP051,48,Female,Marketing,Digital Marketer,Bachelor,58617,1,4,Yes,Yes
+EMP052,24,Male,IT,Data Analyst,Bachelor,29664,3,5,No,Yes
+EMP053,42,Male,HR,Recruiter,Master,27091,8,5,No,No
+EMP054,45,Female,Finance,Accountant,Master,23441,20,4,Yes,Yes
+EMP055,35,Male,Finance,Accountant,Bachelor,26918,10,5,Yes,No
+EMP056,47,Male,IT,Data Analyst,Master,43093,3,4,No,Yes
+EMP057,22,Male,Operations,Operations Manager,Diploma,32049,0,1,Yes,No
+EMP058,42,Female,Operations,Operations Assistant,Diploma,49788,17,5,No,No
+EMP059,52,Male,IT,Business Analyst,Diploma,58540,15,4,No,Yes
+EMP060,46,Male,Finance,Accountant,Diploma,19761,11,1,Yes,Yes
+EMP061,53,Male,Sales,Sales Executive,Master,31225,11,3,Yes,Yes
+EMP062,23,Female,Sales,Sales Administrator,Master,51453,2,2,No,No
+EMP063,54,Male,IT,System Administrator,Diploma,26079,25,1,Yes,No
+EMP064,45,Male,HR,Recruiter,Bachelor,33327,3,4,Yes,No
+EMP065,23,Male,Operations,Operations Assistant,Diploma,32680,0,5,Yes,No
+EMP066,52,Male,Sales,Sales Executive,Diploma,22590,17,4,Yes,Yes
+EMP067,52,Female,HR,Recruiter,Diploma,45706,23,2,Yes,Yes
+EMP068,23,Female,Operations,Operations Manager,Diploma,48235,0,1,No,Yes
+EMP069,51,Male,IT,Data Engineer,Bachelor,28607,5,1,Yes,No
+EMP070,35,Female,Operations,Operations Assistant,Bachelor,29842,11,2,Yes,No
+EMP071,48,Male,Marketing,Digital Marketer,Master,33164,11,1,No,Yes
+EMP072,26,Male,IT,Data Engineer,Diploma,41687,2,2,No,No
+EMP073,44,Female,IT,Business Analyst,Diploma,26046,18,4,Yes,Yes
+EMP074,24,Male,Sales,Sales Executive,Diploma,52226,1,4,Yes,Yes
+EMP075,41,Male,Sales,Sales Executive,Bachelor,28578,12,1,Yes,No
+EMP076,42,Female,HR,Recruiter,Master,26422,14,1,No,No
+EMP077,49,Female,Finance,Accountant,Bachelor,48323,17,4,Yes,Yes
+EMP078,46,Male,IT,Business Analyst,Master,50858,4,5,No,No
+EMP079,44,Female,HR,HR Assistant,Diploma,47506,5,2,Yes,Yes
+EMP080,46,Female,Marketing,Marketing Specialist,Master,15009,19,3,No,Yes
+EMP081,53,Male,IT,Data Analyst,Master,30833,7,2,Yes,Yes
+EMP082,39,Female,Finance,Financial Analyst,Master,26552,12,4,No,No
+EMP083,58,Male,Finance,Accountant,Bachelor,40133,11,1,No,No
+EMP084,33,Female,Marketing,Digital Marketer,Diploma,59689,11,3,No,No
+EMP085,23,Male,HR,HR Assistant,Diploma,31753,1,4,No,Yes
+EMP086,52,Female,Finance,Financial Analyst,Master,21901,1,2,No,No
+EMP087,40,Male,IT,Business Analyst,Bachelor,49600,19,5,Yes,Yes
+EMP088,48,Female,Marketing,Digital Marketer,Bachelor,56418,6,5,No,Yes
+EMP089,29,Male,Sales,Sales Executive,Bachelor,44239,4,4,No,No
+EMP090,25,Female,Operations,Operations Assistant,Master,52116,3,4,No,Yes
+EMP091,57,Male,IT,System Administrator,Bachelor,42317,18,3,No,No
+EMP092,39,Female,Sales,Sales Executive,Bachelor,40349,6,5,No,Yes
+EMP093,33,Male,Marketing,Digital Marketer,Bachelor,18429,12,3,No,Yes
+EMP094,51,Female,IT,System Administrator,Master,41273,19,1,Yes,Yes
+EMP095,53,Male,Operations,Operations Manager,Diploma,40288,8,4,No,No
+EMP096,52,Male,Marketing,Marketing Specialist,Bachelor,17706,17,4,Yes,No
+EMP097,54,Male,Operations,Operations Manager,Diploma,28773,21,1,No,No
+EMP098,57,Female,Sales,Sales Administrator,Diploma,18747,14,3,Yes,Yes
+EMP099,51,Male,Operations,Operations Assistant,Master,55062,0,4,No,Yes
+EMP100,22,Male,HR,Recruiter,Master,46974,1,4,No,Yes
+EMP101,56,Male,HR,HR Assistant,Diploma,29040,7,2,No,Yes
+EMP102,25,Male,HR,Recruiter,Master,59242,3,2,No,No
+EMP103,48,Female,Finance,Financial Analyst,Bachelor,24452,21,5,No,Yes
+EMP104,50,Female,Sales,Sales Executive,Diploma,53505,21,3,Yes,Yes
+EMP105,33,Male,IT,Data Engineer,Master,21971,2,2,No,No
+EMP106,43,Male,Finance,Financial Analyst,Diploma,23867,12,5,Yes,Yes
+EMP107,26,Male,Operations,Operations Assistant,Master,39521,5,2,Yes,Yes
+EMP108,25,Male,HR,Recruiter,Bachelor,17958,3,2,No,No
+EMP109,42,Female,Marketing,Digital Marketer,Bachelor,19001,15,1,No,No
+EMP110,28,Female,Operations,Operations Assistant,Master,54249,4,5,No,No
+EMP111,57,Male,Marketing,Digital Marketer,Bachelor,50922,18,2,Yes,Yes
+EMP112,42,Male,IT,Business Analyst,Bachelor,59679,6,4,Yes,Yes
+EMP113,28,Female,Operations,Operations Assistant,Master,29919,5,5,No,No
+EMP114,24,Male,Sales,Sales Executive,Bachelor,15560,1,3,Yes,Yes
+EMP115,23,Male,HR,HR Manager,Diploma,28498,2,2,No,Yes
+EMP116,41,Female,Sales,Sales Administrator,Bachelor,46584,17,4,No,No
+EMP117,26,Male,Operations,Operations Assistant,Master,38393,2,4,Yes,Yes
+EMP118,49,Female,Sales,Sales Executive,Bachelor,44714,1,5,No,Yes
+EMP119,48,Female,Operations,Operations Manager,Master,16731,23,2,No,No
+EMP120,31,Female,Marketing,Marketing Specialist,Bachelor,26604,2,4,Yes,No
+EMP121,43,Female,IT,Data Engineer,Bachelor,59669,9,4,No,Yes
+EMP122,41,Female,IT,Data Engineer,Bachelor,18214,6,1,Yes,Yes
+EMP123,32,Male,Finance,Accountant,Bachelor,28643,1,4,No,No
+EMP124,28,Female,Operations,Operations Assistant,Diploma,52416,4,4,Yes,Yes
+EMP125,27,Male,HR,HR Assistant,Master,15184,6,2,Yes,Yes
+EMP126,25,Male,HR,HR Manager,Diploma,38121,4,2,Yes,Yes
+EMP127,50,Female,HR,HR Assistant,Bachelor,37141,21,3,No,Yes
+EMP128,35,Female,HR,HR Assistant,Diploma,31530,8,1,Yes,Yes
+EMP129,45,Male,Finance,Financial Analyst,Diploma,23011,20,4,No,No
+EMP130,41,Male,HR,HR Manager,Bachelor,55185,18,1,Yes,Yes
+EMP131,31,Male,Sales,Sales Administrator,Bachelor,52838,7,3,No,No
+EMP132,47,Male,Operations,Operations Assistant,Bachelor,23335,8,5,No,Yes
+EMP133,51,Male,Operations,Operations Assistant,Master,24775,0,4,Yes,Yes
+EMP134,28,Male,Marketing,Marketing Specialist,Bachelor,39253,3,2,Yes,No
+EMP135,54,Male,Operations,Operations Manager,Master,59509,9,2,No,No
+EMP136,37,Female,Marketing,Digital Marketer,Master,40804,7,5,Yes,Yes
+EMP137,38,Female,Finance,Accountant,Bachelor,48102,15,5,Yes,Yes
+EMP138,53,Female,HR,HR Assistant,Diploma,36692,11,4,Yes,No
+EMP139,48,Male,Finance,Accountant,Bachelor,58221,15,4,Yes,Yes
+EMP140,24,Female,Marketing,Digital Marketer,Bachelor,45501,3,5,Yes,Yes
+EMP141,53,Female,IT,Business Analyst,Bachelor,50764,6,1,Yes,No
+EMP142,48,Male,Finance,Accountant,Diploma,47801,17,2,No,Yes
+EMP143,54,Female,Marketing,Digital Marketer,Diploma,52300,25,3,No,No
+EMP144,41,Male,Operations,Operations Assistant,Master,21526,6,3,No,Yes
+EMP145,45,Male,Marketing,Marketing Specialist,Diploma,24492,9,4,No,No
+EMP146,51,Female,Operations,Operations Manager,Diploma,47648,17,5,No,Yes
+EMP147,41,Male,Sales,Sales Administrator,Diploma,25529,6,2,Yes,No
+EMP148,37,Female,Marketing,Marketing Specialist,Bachelor,24755,4,4,No,Yes
+EMP149,28,Male,Operations,Operations Assistant,Bachelor,59707,2,4,Yes,Yes
+EMP150,28,Male,Finance,Accountant,Bachelor,59775,2,2,No,No
+EMP151,34,Female,Operations,Operations Assistant,Master,58747,4,5,Yes,No
+EMP152,46,Male,Finance,Accountant,Diploma,45683,7,5,No,No
+EMP153,43,Male,Finance,Financial Analyst,Bachelor,55078,12,1,No,No
+EMP154,49,Male,Marketing,Digital Marketer,Diploma,45184,1,5,Yes,No
+EMP155,28,Male,Operations,Operations Manager,Master,15778,2,5,No,No
+EMP156,30,Male,HR,HR Assistant,Bachelor,32958,7,1,No,Yes
+EMP157,39,Male,HR,HR Assistant,Master,52041,0,4,No,Yes
+EMP158,31,Female,Marketing,Digital Marketer,Diploma,32553,5,1,No,No
+EMP159,49,Male,Sales,Sales Administrator,Master,59150,0,5,No,No
+EMP160,27,Male,Marketing,Marketing Specialist,Master,50124,5,4,No,No
+EMP161,36,Male,HR,HR Assistant,Master,24632,2,5,Yes,Yes
+EMP162,42,Female,IT,Data Engineer,Bachelor,39458,16,4,No,No
+EMP163,44,Male,Finance,Accountant,Master,49290,11,5,No,Yes
+EMP164,40,Male,Finance,Accountant,Diploma,44766,14,1,Yes,Yes
+EMP165,30,Male,Sales,Sales Administrator,Diploma,53286,1,1,No,Yes
+EMP166,52,Male,Finance,Financial Analyst,Bachelor,31154,15,4,Yes,Yes
+EMP167,40,Female,Sales,Sales Executive,Master,52755,9,5,No,No
+EMP168,44,Male,HR,HR Manager,Bachelor,41177,9,5,Yes,Yes
+EMP169,31,Male,Operations,Operations Assistant,Diploma,30502,9,2,Yes,Yes
+EMP170,24,Male,HR,Recruiter,Diploma,39402,0,5,No,No
+EMP171,36,Female,IT,Business Analyst,Diploma,37175,2,3,No,No
+EMP172,55,Male,HR,Recruiter,Master,40952,24,4,No,No
+EMP173,53,Male,Marketing,Digital Marketer,Master,27696,13,5,Yes,Yes
+EMP174,24,Male,Operations,Operations Assistant,Diploma,36735,2,5,Yes,Yes
+EMP175,33,Female,Operations,Operations Assistant,Diploma,28618,1,3,No,Yes
+EMP176,39,Male,Sales,Sales Executive,Master,54451,1,5,Yes,No
+EMP177,30,Male,HR,HR Manager,Bachelor,29826,8,4,Yes,Yes
+EMP178,25,Male,Finance,Financial Analyst,Master,44462,2,3,No,Yes
+EMP179,39,Female,Finance,Financial Analyst,Master,33775,12,1,No,No
+EMP180,22,Female,Operations,Operations Manager,Bachelor,47034,1,5,Yes,No
+EMP181,47,Female,Sales,Sales Administrator,Diploma,37805,11,1,No,No
+EMP182,44,Male,Finance,Accountant,Master,40918,18,2,No,Yes
+EMP183,41,Female,Sales,Sales Administrator,Master,58003,16,3,No,No
+EMP184,33,Male,Marketing,Marketing Specialist,Bachelor,21487,6,4,No,No
+EMP185,36,Female,HR,HR Assistant,Master,48876,8,5,No,Yes
+EMP186,24,Male,IT,Data Engineer,Master,22011,0,3,No,No
+EMP187,44,Male,Sales,Sales Administrator,Master,54059,4,5,No,Yes
+EMP188,51,Male,HR,Recruiter,Master,29784,10,1,No,No
+EMP189,33,Female,Operations,Operations Manager,Diploma,28172,11,2,Yes,No
+EMP190,53,Male,HR,Recruiter,Diploma,57829,3,1,Yes,No
+EMP191,22,Male,Operations,Operations Assistant,Diploma,18455,1,3,No,Yes
+EMP192,39,Female,IT,Data Analyst,Bachelor,50084,5,1,No,No
+EMP193,52,Female,Finance,Accountant,Diploma,32845,22,4,Yes,Yes
+EMP194,44,Male,Finance,Financial Analyst,Diploma,33257,5,2,No,No
+EMP195,54,Female,Finance,Financial Analyst,Diploma,17473,16,3,Yes,No
+EMP196,22,Female,Marketing,Marketing Specialist,Bachelor,31622,1,3,No,No
+EMP197,52,Male,Operations,Operations Assistant,Bachelor,22840,24,4,No,No
+EMP198,26,Female,Sales,Sales Executive,Bachelor,17336,5,3,No,No
+EMP199,41,Male,Marketing,Marketing Specialist,Diploma,23232,19,3,Yes,Yes
+EMP200,53,Male,Operations,Operations Assistant,Bachelor,57670,21,4,No,No
+EMP201,42,Male,IT,Data Engineer,Diploma,15739,9,1,No,Yes
+EMP202,29,Female,HR,HR Manager,Master,40775,3,5,Yes,No
+EMP203,47,Female,IT,Business Analyst,Diploma,19964,22,3,No,Yes
+EMP204,36,Female,Finance,Accountant,Bachelor,35153,11,4,Yes,No
+EMP205,29,Female,Marketing,Digital Marketer,Diploma,41482,7,4,No,Yes
+EMP206,48,Female,HR,HR Assistant,Bachelor,23577,0,2,No,No
+EMP207,55,Male,Operations,Operations Assistant,Bachelor,51488,7,5,No,Yes
+EMP208,55,Male,HR,Recruiter,Diploma,42764,4,2,No,Yes
+EMP209,56,Female,IT,Business Analyst,Diploma,48229,17,4,Yes,No
+EMP210,33,Male,Operations,Operations Assistant,Master,31958,4,5,Yes,No
+EMP211,39,Female,Sales,Sales Executive,Bachelor,36134,1,1,No,No
+EMP212,25,Female,HR,Recruiter,Bachelor,25980,1,2,Yes,Yes
+EMP213,53,Male,Sales,Sales Administrator,Diploma,42459,23,3,No,No
+EMP214,25,Female,Marketing,Marketing Specialist,Diploma,43818,2,2,Yes,Yes
+EMP215,45,Female,Sales,Sales Executive,Diploma,17756,19,3,Yes,Yes
+EMP216,56,Male,HR,HR Manager,Master,57238,6,1,Yes,No
+EMP217,23,Female,Marketing,Digital Marketer,Bachelor,37026,1,4,No,No
+EMP218,34,Female,IT,Data Analyst,Bachelor,42340,11,5,Yes,No
+EMP219,54,Male,Operations,Operations Assistant,Bachelor,26571,11,1,No,No
+EMP220,52,Male,HR,HR Manager,Bachelor,40370,0,1,Yes,No
+EMP221,44,Male,HR,HR Assistant,Master,17431,0,4,No,No
+EMP222,52,Female,IT,Data Analyst,Diploma,17016,6,1,Yes,Yes
+EMP223,31,Male,HR,HR Manager,Bachelor,39863,10,3,Yes,Yes
+EMP224,58,Female,IT,Data Engineer,Master,29377,15,3,No,Yes
+EMP225,23,Female,Marketing,Digital Marketer,Diploma,15306,0,5,No,Yes
+EMP226,38,Female,Operations,Operations Assistant,Master,20813,2,3,No,Yes
+EMP227,57,Female,Marketing,Digital Marketer,Master,35800,10,3,No,Yes
+EMP228,26,Male,Marketing,Marketing Specialist,Bachelor,41410,3,4,Yes,No
+EMP229,56,Male,Operations,Operations Manager,Diploma,29380,7,3,No,No
+EMP230,49,Male,Marketing,Marketing Specialist,Master,39197,8,3,Yes,Yes
+EMP231,41,Male,Sales,Sales Executive,Bachelor,57959,14,3,Yes,Yes
+EMP232,58,Female,Finance,Financial Analyst,Master,47671,10,1,Yes,Yes
+EMP233,30,Female,Finance,Accountant,Master,38947,4,2,Yes,No
+EMP234,27,Male,Marketing,Marketing Specialist,Master,21403,2,1,Yes,No
+EMP235,37,Female,HR,HR Manager,Diploma,54183,3,4,No,Yes
+EMP236,31,Female,Marketing,Marketing Specialist,Bachelor,47210,7,3,No,Yes
+EMP237,49,Male,IT,Data Engineer,Master,48672,21,2,No,Yes
+EMP238,33,Male,HR,HR Manager,Master,58698,6,1,Yes,No
+EMP239,35,Female,Marketing,Marketing Specialist,Master,48615,7,2,No,Yes
+EMP240,47,Female,Sales,Sales Administrator,Master,40671,17,5,Yes,No
+EMP241,46,Female,Operations,Operations Assistant,Diploma,53612,11,1,Yes,Yes
+EMP242,42,Male,IT,System Administrator,Master,19377,12,4,Yes,No
+EMP243,40,Female,Marketing,Digital Marketer,Diploma,54621,11,5,No,No
+EMP244,36,Male,HR,HR Manager,Diploma,56522,2,4,Yes,No
+EMP245,57,Male,Marketing,Marketing Specialist,Bachelor,31750,9,1,Yes,Yes
+EMP246,43,Female,Sales,Sales Administrator,Master,33503,14,3,Yes,Yes
+EMP247,56,Male,Finance,Accountant,Diploma,38271,10,1,No,No
+EMP248,34,Male,Sales,Sales Administrator,Diploma,33381,9,1,No,Yes
+EMP249,43,Female,Sales,Sales Executive,Master,28420,9,5,Yes,Yes
+EMP250,23,Female,HR,HR Assistant,Master,45934,1,5,No,Yes
